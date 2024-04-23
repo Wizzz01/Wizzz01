@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wizzz01
-- 👀 I’m interested in CS, Java, Javascript, Python, and A.I. 
-- 🌱 I’m currently learning Java, CS, HTML, CSS, JS
+- 👀 I’m interested in Python, PHP, and A.I. 
+- 🌱 I’m currently learning Python, PHP, and JavaScript.
 - 💞️ I’m looking to collaborate on random projects
 - 📫 How to reach me. email me @ luizchan8@gmail.com
 
