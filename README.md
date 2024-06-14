@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Wizzz01
-- 👀 I’m interested in Python, PHP, and A.I. 
-- 🌱 I’m currently learning Python, PHP, and JavaScript.
+- 🌱 I’m currently learning PHP, React, Svelte, and MongoDB.
 - 💞️ I’m looking to collaborate on random projects
 - 📫 How to reach me. email me @ luizchan8@gmail.com
 
