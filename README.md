@@ -1,4 +1,4 @@
-- 🌱 I’m currently learning PHP, React, Svelte, and MongoDB.
+- 🌱 I’m currently learning PHP, React, and Typescript.
 - 💞️ I’m looking to collaborate on random projects
 - 📫 How to reach me. email me @ luizchan8@gmail.com
 
