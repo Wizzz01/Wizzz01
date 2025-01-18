@@ -1,4 +1,4 @@
-- 🌱 I’m currently learning PHP, React, and Typescript.
+- 🌱 I’m currently working on projects with Languages like Python and Typescript, and frameworks like React, Django, and Flask.
 - 💞️ I’m looking to collaborate on random projects
 - 📫 How to reach me. email me @ luizchan8@gmail.com
 
